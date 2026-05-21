@@ -1,15 +1,16 @@
-<meta name="google-site-verification" content="1EejocI81CkhJce5Dc9qaB6PupYhvIDiC0AYwyvISzk" />
-<!DOCTYPE html>
+!DOCTYPE html>
 
 <html lang="en">
 
 <head>
 
-    <meta charset="UTF-8">
+<meta name="google-site-verification" content="1EEjocI81CkhJce5Dc9qaB6PupYhvIDiC0AYwyVISzk" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
 
-    <title> Research paper  | Research Portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Research paper | Research Portfolio</title>
 
     <style>
 
