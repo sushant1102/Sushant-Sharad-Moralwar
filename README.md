@@ -9,7 +9,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Sushant Sharad Moralwar | Research Portfolio</title>
+    <title> Research paper  | Research Portfolio</title>
 
     <style>
 
